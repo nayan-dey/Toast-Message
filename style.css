@@ -1,0 +1,26 @@
+* {
+  background: #ddacac;
+  position: relative;
+}
+.container {
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+.btn {
+  font-size: 30px;
+  margin: 20px;
+}
+.show {
+  background-color: #fff;
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+.hidden {
+  visibility: hidden;
+}
